@@ -7,7 +7,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <Button variant="outlined">Outlined vvv</Button>
+        <Button variant="outlined">Outlinedddd vvv</Button>
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
